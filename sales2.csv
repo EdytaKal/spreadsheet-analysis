@@ -1,0 +1,17 @@
+year,month,sales,expenditure,monthly_changes[%]
+2018,jan,6226,3808,0
+2018,feb,1521,3373,-76
+2018,mar,1842,3965,21
+2018,apr,2051,1098,11
+2018,may,1728,3046,-16
+2018,jun,2138,2258,23
+2018,jul,7479,2084,249
+2018,aug,4434,2799,-41
+2018,sep,3615,1649,-19
+2018,oct,5472,1116,51
+2018,nov,7224,1431,32
+2018,dec,1812,3532,-75
+Total sales across all months is 45542.
+Average sales in 2018 was 3795.17.
+The lowest sales value occurred in feb and had a value of 1521
+The highest sales value occurred in jul and had a value of 7479
